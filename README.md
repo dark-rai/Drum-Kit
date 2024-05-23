@@ -1,3 +1,3 @@
 # Drum-Kit
-A complete drum kit on a webpage using advanced JavaScript.<be>
-It can be accessed at 
+A complete drum kit on a webpage using advanced JavaScript.<br>
+It can be accessed at https://dark-rai.github.io/Drum-Kit/

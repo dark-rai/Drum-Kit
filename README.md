@@ -1,11 +1,11 @@
 # Drum-Kit
 A complete drum kit on a webpage using advanced JavaScript.<br>
 
-#Overview
+#Overview<br>
 This is an interactive drum kit game created using advanced JavaScript, HTML, and CSS. The game allows users to play different drum sounds. The implementation utilizes event listeners, audio playback, and timed animations to create a dynamic and engaging experience.<be>
 It can be accessed at https://dark-rai.github.io/Drum-Kit/
 
-#Functioning
+#Functioning<br>
 Interactive Drums: Play drum sounds by either clicking on the drum images or pressing the corresponding keys shown.
 Audio Playback: Each drum element plays a specific sound, set according to the image of the drum shown.
 
